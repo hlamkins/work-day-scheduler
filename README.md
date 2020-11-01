@@ -8,7 +8,7 @@ When the save button is clicked the tasks will be saved in the local storage for
 ![Work Day Scheduler](image/workday.png)
 
 ## Link to Live Page
-[Work Day Scheduler](file:///C:/Users/lamki/Homework/work-day-scheduler/index.html)
+[Work Day Scheduler](https://hlamkins.github.io/work-day-scheduler/)
 
 ## Project Status
 This project is complete and functioning. 
